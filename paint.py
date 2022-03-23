@@ -1,4 +1,4 @@
-"""Paint, for drawing shapes.
+"""Paint, a game for drawing shapes.
 
 Exercises
 
